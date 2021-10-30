@@ -1,5 +1,5 @@
 {
-    "name": "pestphp/pest-plugin-mock",
+    "name": "def-studio/pest-plugin-mock",
     "description": "Adds mocking capabilities to Pest or PHPUnit",
     "keywords": [
         "php",
